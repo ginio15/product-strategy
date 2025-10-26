@@ -76,19 +76,11 @@ Narratives and artifacts for business stakeholders.
 
 ## What this demonstrates 
 
-- Evidence-backed requirements with measurable outcomes
+- Evidence-backed requirements
 - Explicit scope, edge cases, and acceptance criteria
 - Governance-aligned gates (constitution) used as release criteria
 - Traceability from problem framing (PRD) to plans, research, and tasks
 - Risk management via clarifications, assumptions, and checklists
 - Delivery readiness with parallelizable, testable increments
 
-## Status and Branch
 
-- Active feature branch: `001-olympia-bod-analyzer`
-- Phase 0 research drafted; plan/spec/checklists aligned; tasks organized by story with tracking
-
-## Notes
-
-- Dot-prefixed folders are visible locally for transparency but may be excluded from remote pushes via `.gitignore`.
-- No proprietary content included; examples are structured for demonstration.
