@@ -1,6 +1,6 @@
 # Olympia BoD Analyzer — Real-World Product Definition Example
 
-This repository showcases a complete, real-world product definition process for an AI-powered Olympia Board of Directors (BoD) Analyzer MVP. It demonstrates  AI product ownership: problem framing, governance by a product constitution, testable specifications, plan and research artifacts, traceability, and execution readiness.
+This repository showcases a complete, real-world product definition process for an AI-powered Board of Directors (BoD) Analyzer MVP. It demonstrates  AI product ownership: problem framing, governance by a product constitution, testable specifications, plan and research artifacts, traceability, and execution readiness.
 
 Use this repo to see how a product is specified, clarified, planned, and decomposed into tasks with measurable outcomes.
 
