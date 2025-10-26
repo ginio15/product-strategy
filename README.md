@@ -4,7 +4,7 @@ This repository showcases a complete, real-world product definition process for 
 
 Use this repo to see how a product is specified, clarified, planned, and decomposed into tasks with measurable outcomes.
 
-## Quick Start (10-minute tour)
+## Quick Start (3-minute tour)
 
 1. Read the executive overview in Product-docks:
    - PRD: Product intent and MVP scope →
@@ -74,7 +74,7 @@ Narratives and artifacts for business stakeholders.
   - Design produces data models and API contracts.
   - Tasks decompose work by user story for independent delivery.
 
-## What this demonstrates (senior AI product ownership)
+## What this demonstrates 
 
 - Evidence-backed requirements with measurable outcomes
 - Explicit scope, edge cases, and acceptance criteria
